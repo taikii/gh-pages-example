@@ -1,0 +1,4 @@
+baseURL = "https://taikii.github.io/gh-pages-example/"
+languageCode = "ja"
+title = "Hugo Example"
+publishDir = "docs"
